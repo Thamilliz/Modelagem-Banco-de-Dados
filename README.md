@@ -4,9 +4,8 @@ O projeto tem como objetivo criar um banco de dados para um novo Sistema de Acom
 Criando novas entidades tais como: Curso, Turma e Aluno. 
 
 
-Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
-e responder algumas perguntas com nosso modelo:
-⇨ Existem outras entidades além dessas três? 
+Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
+⇨ Existem outras entidades além dessas três?  
 ⇨ Quais são os principais campos e tipos?
 ⇨ Como essas entidades estão relacionadas?
 
